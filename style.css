@@ -23,6 +23,7 @@ body {
   justify-content: start;
   width: 60%;
   height: 100vh;
+  
 }
 
 .instagram-phone {
@@ -33,7 +34,8 @@ body {
 }
 
 .instagram-phone img {
-  height: 50rem;
+  height: 40rem;
+  border-radius: 2%;
 }
 
 .instagram-continue {
@@ -62,7 +64,7 @@ body {
 }
 
 .instagram-logo {
-  height: 3rem;
+  height: 4rem;
 }
 
 
@@ -72,29 +74,34 @@ body {
   align-items: center;
   border-radius: 50%;
   overflow: hidden;
+  
 }
 
 .profile-photo img {
   height: 6rem;
+  width: 6rem;
 }
 
 .instagram-login {
   background-color: #0095f6;
   color: #ffffff;
-  padding: 8px;
+  padding: 6px;
   border-radius: 4px;
+
 }
 .instagram-logout {
   color: #0095f6;
   margin-top: 1 rem;
+ 
 }
 
 .not-account {
-  color: rgb(160, 160, 160);
+  color: rgb(75, 72, 72);
 }
 
 .link-blue {
   color: #0095f6;
+ 
 }
 
 .get-the-app {
@@ -103,7 +110,8 @@ body {
   align-items: center;
   justify-content: center;
   width: 100%;
-  padding: 1.3rem 0;
+  padding: 1.0rem 0;
+  
 }
 
 .download {
@@ -116,7 +124,7 @@ body {
 
 .app-download {
   height: 3rem;
-  width: 9rem;
+  width: 10rem;
   background-size: cover;
 }
 
